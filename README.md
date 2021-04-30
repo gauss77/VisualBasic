@@ -1,4 +1,4 @@
 # Visual Basic
- Basic little fun programs created using Visual Basic 6.0
+ A series of basic little fun programs created using Visual Basic 6.0 IDE
  
- <img src="images/img_ImageViewer.png" height="80%" width="80%">
+ <img src="images/img_Desktop.png" height="80%" width="80%">
